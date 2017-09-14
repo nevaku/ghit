@@ -6,5 +6,6 @@ So here is the syncjs features:
 -- Synchronously run your block of code through javascript async framework
 -- If-elseif-else-end scenario
 -- wait, with progressif delay.
+-- Standard javascript syntax
 
 This is a javascript library if you want to automate your web application
